@@ -3,7 +3,7 @@
 This is a library for making 2d shapes that are easy to move around within p5.js. It uses the <a href="https://github.com/bmoren/p5.collide2D">2dCollide</a> library as well.
 
 ##Setup
-- Download the p5.draggableShape.js and p5,2dcollide.js files and add them to you sketch's libraries
+- Download the p5.draggableShape.js and p5.2dcollide.js files and add them to you sketch's libraries
 - Link the libraries in the html in your p5 project folder. 
 - You're good to go.
 
